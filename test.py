@@ -11,4 +11,4 @@ solution = Solution()
 a=121
 solution.isPalindrome(a)
 
-print('test1')
+print('test2')
