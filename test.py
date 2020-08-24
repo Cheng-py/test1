@@ -10,5 +10,3 @@ class Solution:
 solution = Solution()
 a=121
 solution.isPalindrome(a)
-
-print('test3')
